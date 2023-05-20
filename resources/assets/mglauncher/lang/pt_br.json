@@ -1,0 +1,55 @@
+{
+  "init.message.start": "Lançador Iniciado!",
+  "init.message.version": "Versão Atual:",
+  "init.message.newMessage": "Mensagem:",
+  "init.message.thanks": "Obrigado Por Usar Meu Lançador!",
+
+  "gui.title": "MGLauncher -Um Lançador De Fnaf Doom Customizado!",
+  "gui.text_title": "Selecione Um Jogo:",
+
+  "gui.fnaf_1.title": "Selecione Um Modo De Jogo:",
+  "gui.fnaf_1.singleplayer": "Sozinho",
+  "gui.fnaf_1.multiplayer": "Multijogador",
+
+  "gui.fnaf_1_multiplayer.title": "Selecione Um Modo Multijogador:",
+  "gui.fnaf_1_multiplayer.host": "Hospedar Um Servidor",
+  "gui.fnaf_1_multiplayer.join": "Entrar Em Um Servidor",
+  "gui.fnaf_1_multiplayer_host.title": "Customize Sua Jogatina:",
+  "gui.fnaf_1_multiplayer_host.map_label": "Mapa:",
+  "gui.fnaf_1_multiplayer_host.map.cutscene": "Cena Inicial",
+  "gui.fnaf_1_multiplayer_host.map.night_1": "Noite 1",
+  "gui.fnaf_1_multiplayer_host.map.night_2": "Noite 2",
+  "gui.fnaf_1_multiplayer_host.map.night_3": "Noite 3",
+  "gui.fnaf_1_multiplayer_host.map.night_4": "Noite 4",
+  "gui.fnaf_1_multiplayer_host.map.night_5": "Noite 5",
+  "gui.fnaf_1_multiplayer_host.map.night_6": "Noite 6",
+  "gui.fnaf_1_multiplayer_host.map.versus": "Versus Mode",
+  "gui.fnaf_1_multiplayer_host.players_number": "Número De Jogadores:",
+  "gui.fnaf_1_multiplayer_host.cheats": "Trapaças:",
+  "gui.fnaf_1_multiplayer_host.cheats.yes": "Sim",
+  "gui.fnaf_1_multiplayer_host.cheats.no": "Não",
+  "gui.fnaf_1_multiplayer_host.port": "Porta:",
+  "gui.fnaf_1_multiplayer_host.start": "Iniciar",
+  "gui.fnaf_1_multiplayer_join.title": "Insira o IP Do Hospedeiro:",
+  "gui.fnaf_1_multiplayer_join.start": "Entrar",
+
+  "gui.info.title": "Informações Do MGLauncher",
+  "gui.info.text_title": "Informações:",
+  "gui.info.text": "Isso É Apenas Uma Repostagem Do Jogo Oficial",
+  "gui.info.credits": "Créditos:",
+  "gui.info.programmer": "Programador: ",
+  "gui.info.designer": "Designer: ",
+  "gui.info.version": "Versão Atual: ",
+  "gui.info.music": "Música:",
+
+  "gui.other.ugly": "Estou Muito Triste Com Você, Pois Você Me Chamou De Feio!",
+
+  "gui.popup.paste": "Colar",
+  "gui.popup.copy": "Copiar",
+
+  "gui.error.title": "Erro Fatal",
+  "gui.error.gzdoom": "GZDoom Não Encontrado! (Fatal)",
+  "gui.error.directory": "Diretório Do Jogo Não Encontrado! (Fatal)",
+  "gui.error.files": "Alguns Arquivos Do Jogo Não Encontrados! (Fatal)",
+  "gui.error.panel": "Erro No Painel,\nForçando Saída!"
+}

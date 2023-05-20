@@ -1,0 +1,55 @@
+{
+  "init.message.start": "Launcher Started!",
+  "init.message.version": "Current Version:",
+  "init.message.newMessage": "Message:",
+  "init.message.thanks": "Thanks For Using My Launcher!",
+
+  "gui.title": "MGLauncher -An Customized Fnaf Doom Launcher!",
+  "gui.text_title": "Select a Game:",
+
+  "gui.fnaf_1.title": "Select a Game Mode:",
+  "gui.fnaf_1.singleplayer": "Singleplayer",
+  "gui.fnaf_1.multiplayer": "Multiplayer",
+
+  "gui.fnaf_1_multiplayer.title": "Select a Multiplayer Mode:",
+  "gui.fnaf_1_multiplayer.host": "Host a Server",
+  "gui.fnaf_1_multiplayer.join": "Join a Server",
+  "gui.fnaf_1_multiplayer_host.title": "Customize Your Game Play:",
+  "gui.fnaf_1_multiplayer_host.map_label": "MAP:",
+  "gui.fnaf_1_multiplayer_host.map.cutscene": "Opening Scene",
+  "gui.fnaf_1_multiplayer_host.map.night_1": "Night 1",
+  "gui.fnaf_1_multiplayer_host.map.night_2": "Night 2",
+  "gui.fnaf_1_multiplayer_host.map.night_3": "Night 3",
+  "gui.fnaf_1_multiplayer_host.map.night_4": "Night 4",
+  "gui.fnaf_1_multiplayer_host.map.night_5": "Night 5",
+  "gui.fnaf_1_multiplayer_host.map.night_6": "Night 6",
+  "gui.fnaf_1_multiplayer_host.map.versus": "Versus Mode",
+  "gui.fnaf_1_multiplayer_host.players_number": "Number Of Players:",
+  "gui.fnaf_1_multiplayer_host.cheats": "Cheats:",
+  "gui.fnaf_1_multiplayer_host.cheats.yes": "Yes",
+  "gui.fnaf_1_multiplayer_host.cheats.no": "No",
+  "gui.fnaf_1_multiplayer_host.port": "Port:",
+  "gui.fnaf_1_multiplayer_host.start": "Start",
+  "gui.fnaf_1_multiplayer_join.title": "Enter Host IP:",
+  "gui.fnaf_1_multiplayer_join.start": "Join",
+
+  "gui.info.title": "MGLauncher Information",
+  "gui.info.text_title": "Information",
+  "gui.info.text": "This Is Just a Repost Of Official Game",
+  "gui.info.credits": "Credits:",
+  "gui.info.programmer": "Programmer: ",
+  "gui.info.designer": "Designer: ",
+  "gui.info.version": "Current Version: ",
+  "gui.info.music": "Music:",
+
+  "gui.other.ugly": "I'm Very Sad With You Because You Called Me Ugly!",
+
+  "gui.popup.paste": "Paste",
+  "gui.popup.copy": "Copy",
+
+  "gui.error.title": "Fatal Error",
+  "gui.error.gzdoom": "GZDoom Not Found! (Fatal)",
+  "gui.error.directory": "Game Directory Not Found! (Fatal)",
+  "gui.error.files": "Some Game Files Not Found! (Fatal)",
+  "gui.error.panel": "Panel Error,\nForcing Quit!"
+}
