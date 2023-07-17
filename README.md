@@ -17,6 +17,4 @@ This Launcher Is Made In Java 19.
 
 This Launcher Includes Versus Mode!
 
-This Launcher Is Open-Source, But Do Not Take Credits!
-
 Thanks For Using MGLauncher!
