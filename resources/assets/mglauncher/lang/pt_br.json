@@ -1,0 +1,49 @@
+{
+  "init.message.start": "Lançador Iniciado!",
+  "init.message.version": "Versão Atual:",
+  "init.message.newMessage": "Mensagem:",
+  "init.message.thanks": "Obrigado Por Usar Meu Lançador!",
+
+  "gui.text_title": "Selecione Um Jogo:",
+
+  "gui.fnaf_1.singleplayer": "Sozinho",
+  "gui.fnaf_1.multiplayer": "Multijogador",
+
+  "gui.fnaf_1.title": "Selecione Um Modo De Jogo:",
+  "gui.fnaf_1_multiplayer.title": "Selecione Um Modo Multijogador:",
+  "gui.fnaf_1_multiplayer.host": "Hospedar",
+  "gui.fnaf_1_multiplayer.join": "Entrar",
+  "gui.fnaf_1_multiplayer_host.title": "Customize Sua Jogatina:",
+  "gui.fnaf_1_multiplayer_host.map.cutscene": "Abrigo",
+  "gui.fnaf_1_multiplayer_host.map.night": "Noite %s",
+  "gui.fnaf_1_multiplayer_host.map.versus": "Versus Mode",
+  "gui.fnaf_1_multiplayer_host.players_number": "Número De Jogadores:",
+  "gui.fnaf_1_multiplayer_host.start": "Iniciar",
+  "gui.fnaf_1_multiplayer_join.title": "Insira o IP Do Hospedeiro:",
+  "gui.fnaf_1_multiplayer_join.start": "Entrar",
+
+  "gui.info.text_title": "Informações:",
+  "gui.info.text": "Isso É Apenas Uma Repostagem Do Jogo Oficial",
+  "gui.info.credits": "Créditos:",
+  "gui.info.programmer": "Programador: @MateusMG2010",
+  "gui.info.designer": "Designer: @MateusMG2010",
+  "gui.info.version": "Versão Atual: ",
+  "gui.info.music": "Música:",
+
+  "gui.titles.main": "MGLauncher -Um Lançador De FNaF Doom Customizado!",
+  "gui.titles.fnaf_1": "MGLauncher -Seleção Do Modo De Jogo",
+  "gui.titles.host": "MGLauncher -Configurações Host",
+  "gui.titles.join": "MGLauncher -Configurações Join",
+  "gui.titles.mt_select": "MGLauncher -Seleção Do Modo Multijogador",
+  "gui.titles.info": "Informações Do MGLauncher",
+
+  "gui.popup.paste": "Colar",
+  "gui.popup.copy": "Copiar",
+
+  "gui.error.title": "Erro Fatal",
+  "gui.error.gzdoom": "GZDoom Não Encontrado! (Fatal)",
+  "gui.error.directory": "Diretório Do Jogo Não Encontrado!",
+  "gui.error.files": "Alguns Arquivos Do Jogo Não Encontrados!",
+  "gui.error.panel": "Erro No Painel,\nForçando Saída!",
+  "gui.error.ip_empty": "O Campo Do Ip Está Vazio!"
+}

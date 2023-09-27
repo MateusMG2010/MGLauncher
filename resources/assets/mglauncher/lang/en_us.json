@@ -1,0 +1,49 @@
+{
+  "init.message.start": "Launcher Started!",
+  "init.message.version": "Current Version:",
+  "init.message.newMessage": "Message:",
+  "init.message.thanks": "Thanks For Using My Launcher!",
+
+  "gui.text_title": "Select a Game:",
+
+  "gui.fnaf_1.title": "Select a Game Mode:",
+  "gui.fnaf_1.singleplayer": "Singleplayer",
+  "gui.fnaf_1.multiplayer": "Multiplayer",
+
+  "gui.fnaf_1_multiplayer.title": "Select a Multiplayer Mode:",
+  "gui.fnaf_1_multiplayer.host": "Host",
+  "gui.fnaf_1_multiplayer.join": "Join",
+  "gui.fnaf_1_multiplayer_host.title": "Customize Your Game Play:",
+  "gui.fnaf_1_multiplayer_host.map.cutscene": "Shelter",
+  "gui.fnaf_1_multiplayer_host.map.night": "Night %s",
+  "gui.fnaf_1_multiplayer_host.map.versus": "Versus Mode",
+  "gui.fnaf_1_multiplayer_host.players_number": "Number Of Players:",
+  "gui.fnaf_1_multiplayer_host.start": "Start",
+  "gui.fnaf_1_multiplayer_join.title": "Enter Host IP:",
+  "gui.fnaf_1_multiplayer_join.start": "Join",
+
+  "gui.info.text_title": "Information",
+  "gui.info.text": "This Is Just a Repost Of Official Game",
+  "gui.info.credits": "Credits:",
+  "gui.info.programmer": "Programmer: @MateusMG2010",
+  "gui.info.designer": "Designer: @MateusMG2010",
+  "gui.info.version": "Current Version: ",
+  "gui.info.music": "Music:",
+
+  "gui.titles.main": "MGLauncher -A Customized Five Nights at Freddy's Doom Launcher",
+  "gui.titles.fnaf_1": "MGLauncher -Game Mode Selection",
+  "gui.titles.host": "MGLauncher -Host Settings",
+  "gui.titles.join": "MGLauncher -Join Settings",
+  "gui.titles.mt_select": "MGLauncher -Multiplayer Mode Selection",
+  "gui.titles.info": "MGLauncher Information",
+
+  "gui.popup.paste": "Paste",
+  "gui.popup.copy": "Copy",
+
+  "gui.error.title": "Fatal Error",
+  "gui.error.gzdoom": "Engine Not Found!",
+  "gui.error.directory": "Game Directory Not Found!",
+  "gui.error.files": "Some Game Files Not Found!",
+  "gui.error.panel": "Panel Error,\nForcing Quit!",
+  "gui.error.ip_empty": "Ip Field Is Empty!"
+}

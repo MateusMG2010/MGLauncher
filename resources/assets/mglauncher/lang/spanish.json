@@ -1,0 +1,49 @@
+{
+  "init.message.start": "¡Lanzador iniciado!",
+  "init.message.version": "Versión actual:",
+  "init.message.newMessage": "Mensaje:",
+  "init.message.thanks": "¡Gracias por usar mi lanzador!",
+
+  "gui.text_title": "Seleccione un juego:",
+
+  "gui.fnaf_1.singleplayer": "Un jugador",
+  "gui.fnaf_1.multiplayer": "Multijugador",
+
+  "gui.fnaf_1.title": "Seleccione un modo de juego:",
+  "gui.fnaf_1_multiplayer.title": "Seleccione un modo multijugador:",
+  "gui.fnaf_1_multiplayer.host": "Hospedar",
+  "gui.fnaf_1_multiplayer.join": "Unirse",
+  "gui.fnaf_1_multiplayer_host.title": "Personaliza tu partida:",
+  "gui.fnaf_1_multiplayer_host.map.cutscene": "Refugio",
+  "gui.fnaf_1_multiplayer_host.map.night": "Noche %s",
+  "gui.fnaf_1_multiplayer_host.map.versus": "Modo Versus",
+  "gui.fnaf_1_multiplayer_host.players_number": "Número de jugadores:",
+  "gui.fnaf_1_multiplayer_host.start": "Iniciar",
+  "gui.fnaf_1_multiplayer_join.title": "Ingresa la IP del anfitrión:",
+  "gui.fnaf_1_multiplayer_join.start": "Entrar",
+
+  "gui.info.text_title": "Información:",
+  "gui.info.text": "Esto es solo una versión modificada del juego oficial",
+  "gui.info.credits": "Créditos:",
+  "gui.info.programmer": "Programador: @MateusMG2010",
+  "gui.info.designer": "Diseñador: @MateusMG2010",
+  "gui.info.version": "Versión actual: ",
+  "gui.info.music": "Música:",
+
+  "gui.titles.main": "MGLauncher: ¡Un lanzador personalizado de FNaF Doom!",
+  "gui.titles.fnaf_1": "MGLauncher: Selección de modo de juego",
+  "gui.titles.host": "MGLauncher: Configuración del anfitrión",
+  "gui.titles.join": "MGLauncher: Configuración de unirse",
+  "gui.titles.mt_select": "MGLauncher: Selección del modo multijugador",
+  "gui.titles.info": "Información del MGLauncher",
+
+  "gui.popup.paste": "Pegar",
+  "gui.popup.copy": "Copiar",
+
+  "gui.error.title": "Error fatal",
+  "gui.error.gzdoom": "¡GZDoom no encontrado!",
+  "gui.error.directory": "¡Directorio del juego no encontrado!",
+  "gui.error.files": "¡Algunos archivos del juego no encontrados! ",
+  "gui.error.panel": "Error en el panel,\n¡Saliendo forzosamente!",
+  "gui.error.ip_empty": "El Campo Ip Está Vacío"
+}
