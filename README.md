@@ -1,5 +1,5 @@
 # MGLauncher
-This Is The Official Repository Of MGLauncher.
+MGLauncher -A Custom FNaF Doom Mod Launcher For 2018 Version.
 
 GameJolt: https://gamejolt.com/games/mglauncher/793036
 
