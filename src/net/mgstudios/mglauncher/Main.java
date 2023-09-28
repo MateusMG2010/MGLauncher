@@ -8,7 +8,7 @@ import net.mgstudios.mglauncher.sound.MusicManager;
 
 public class Main {
     private static final String Message = new MessageManager().getMessage();
-    public static final String APPLICATION_VERSION = "1.5";
+    public static final String APPLICATION_VERSION = "1.5.1";
     private static final MusicManager MUSIC_MANAGER = new MusicManager();
 
     public static void main(String[] args) {
